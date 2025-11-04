@@ -189,7 +189,7 @@ body.rtl .main-nav a::after {
 }
 
 .hero-logo {
-    width: 675px; /* Centered logo size */
+    width: 500px; /* Centered logo size */
     margin-bottom: 25px;
 }
 
