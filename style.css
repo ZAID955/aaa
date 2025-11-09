@@ -189,8 +189,10 @@ body.rtl .main-nav a::after {
 }
 
 .hero-logo {
-    width: 500px; /* Centered logo size */
-    margin-bottom: 25px;
+  width: 600px; /* أو أي حجم مناسب */
+  height: auto;
+  display: block;
+  margin: 0 auto -60px auto;
 }
 
 .slogan {
